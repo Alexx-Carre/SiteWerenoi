@@ -1,0 +1,68 @@
+h1  {
+    color: yellow;
+    font-family: "Monda", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+
+h2 {
+    color: yellow;
+    font-family: "Monda", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+ body    {
+    background-color: #12130F;
+}
+p {
+    color: yellow;
+    font-family: "Monda", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+a {
+    color: yellow;
+    font-family: "Monda", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+.premier {
+    padding: 20px 250px;
+}
+
+
+.deuxième {
+    padding: 20px 250px;
+}
+
+.troisieme {
+    padding: 20px 250px;
+}
+
+.zero {
+    padding: 20px 250px;
+    
+}
+
+.quatre {
+    text-align: center;
+}
+.carré {
+    display: flex;
+}
+.bordure {
+    color: yellow;
+    box-shadow: 5px 5px 5px;
+    border-radius: 30px;
+    padding: 10px;
+    margin: 30px;
+}
+.logos {
+    width: 42px;
+    height: 42px;
+    border-radius: 50%;
+}
